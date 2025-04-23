@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .gallery {
+    margin: 20px auto;
+  }
+  
+  img {
+    max-width: 80%;
+    height: auto;
+    border: 5px solid #555;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #aaa;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
